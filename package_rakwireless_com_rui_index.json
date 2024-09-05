@@ -274,7 +274,7 @@
           "url": "https://github.com/andrewflash/RAK-STM32-RUI/archive/refs/tags/v5.1.0_400_MIOTA.tar.gz",
           "archiveFileName": "RAK-STM32-RUI-5.1.0_400_MIOTA.tar.gz",
           "checksum": "SHA-256:8f93e88758313f41d94679885e3b91c0d7df550329185f314934def5b0d9af30",
-          "size": "52995079",
+          "size": "53007030",
           "boards": [
             {
               "name": "RAK3172-E"
